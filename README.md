@@ -31,7 +31,7 @@
 ---
 
 ## Tech Stack
-- Python: Pandas, Numpy, Matplotlib, Seaborn, Scitlearn
+- Python: Pandas, Numpy, Matplotlib, Seaborn, scikit-learn
 - SQL
 - 데이터 전처리 / 로그 분석 / 퍼널과 리텐션 분석 / 사용자 세분화 / 머신러닝
 
